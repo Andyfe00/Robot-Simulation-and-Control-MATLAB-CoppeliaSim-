@@ -50,7 +50,7 @@ This sequence showcases **object manipulation, robot coordination, and motion sy
 
 ## Run
 1. Open MATLAB and add the `/matlab` folder to path.
-2. Start CoppeliaSim and run the scene `final.ttt`.
+2. Start CoppeliaSim and run the scene `simulation.ttt`.
 3. In MATLAB, run:
    ```matlab
    app = APP_SCARA;
