@@ -54,3 +54,9 @@ This sequence showcases **object manipulation, robot coordination, and motion sy
 3. In MATLAB, run:
    ```matlab
    app = APP_SCARA;
+
+   > ⚠️ Academic Disclaimer  
+> This project was developed as part of the  
+> Robotics module at **Universidad Militar Nueva Granada (2017–2021)**.  
+> The content is shared for educational and portfolio purposes only.  
+> No proprietary or restricted university materials are included.
